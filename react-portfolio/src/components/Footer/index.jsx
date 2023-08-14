@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function ContactForm() {
+export default function Footer() {
     return (
         <div>
-            <h1>ContactForm</h1>
+            <p>copyright infringement</p>
         </div>
     );
 }

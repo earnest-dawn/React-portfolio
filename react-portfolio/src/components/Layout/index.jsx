@@ -1,4 +1,5 @@
 import { Outlet, Link } from 'react-router-dom';
+
 export default function Layout() {
     return (
         <>
@@ -8,7 +9,7 @@ export default function Layout() {
                         <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/Project">Project</Link>
+                        <Link to="/Project">The Resume</Link>
                     </li>
                     <li>
                         <Link to="/contact">Contact</Link>

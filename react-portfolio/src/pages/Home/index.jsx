@@ -1,3 +1,7 @@
 export default function Home() {
-    return (<header>This is the home page</header>);
+    return (
+    <div>
+       <header>Earnest Dawn's Portfolio</header>
+       
+        </div>);
 }
